@@ -14,6 +14,7 @@
 		181D0E271C316AE600FD2D6B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181D0E261C316AE600FD2D6B /* Images.xcassets */; };
 		181D0E2A1C316AE600FD2D6B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 181D0E281C316AE600FD2D6B /* LaunchScreen.xib */; };
 		181D0E361C316AE700FD2D6B /* dropballTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 181D0E351C316AE700FD2D6B /* dropballTests.m */; };
+		181D0E401C316C4F00FD2D6B /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 181D0E3F1C316C4F00FD2D6B /* ball.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		181D0E2F1C316AE700FD2D6B /* dropballTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dropballTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		181D0E341C316AE700FD2D6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		181D0E351C316AE700FD2D6B /* dropballTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dropballTests.m; sourceTree = "<group>"; };
+		181D0E3F1C316C4F00FD2D6B /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		181D0E191C316AE600FD2D6B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				181D0E3F1C316C4F00FD2D6B /* ball.png */,
 				181D0E1A1C316AE600FD2D6B /* Info.plist */,
 				181D0E1B1C316AE600FD2D6B /* main.m */,
 			);
@@ -201,6 +204,7 @@
 			files = (
 				181D0E251C316AE600FD2D6B /* Main.storyboard in Resources */,
 				181D0E2A1C316AE600FD2D6B /* LaunchScreen.xib in Resources */,
+				181D0E401C316C4F00FD2D6B /* ball.png in Resources */,
 				181D0E271C316AE600FD2D6B /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
